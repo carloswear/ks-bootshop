@@ -6,13 +6,13 @@
         "slide_Q4UPQq": {
           "type": "slide",
           "settings": {
-            "img_mobile": "shopify:\/\/shop_images\/lifestyle-1-mobile.jpg",
-            "img_desktop": "shopify:\/\/shop_images\/lifestyle-1.jpg",
+            "img_mobile": "shopify:\/\/shop_images\/game-console-controller-illuminated.jpg",
+            "img_desktop": "shopify:\/\/shop_images\/game-console-controller-illuminated.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
             "subtitle": "Developed by KondaSoft",
-            "title": "Welcome to KS BootShop Theme",
+            "title": "",
             "description": "<p>Free Shopify Theme inspired by simplicity and elegance.<\/p>",
             "btn_primary_text": "Shop all",
             "btn_primary_url": "shopify:\/\/collections\/all",
@@ -23,8 +23,6 @@
         "slide_TddqxQ": {
           "type": "slide",
           "settings": {
-            "img_mobile": "shopify:\/\/shop_images\/lifestyle-2-mobile.jpg",
-            "img_desktop": "shopify:\/\/shop_images\/lifestyle-2.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
@@ -85,7 +83,9 @@
         "border_color": "border-primary",
         "border_opacity": 100,
         "container_max_width": "",
-        "products": [],
+        "products": [
+
+        ],
         "collection": "latest",
         "limit": 8,
         "recommended_mode": true,
@@ -282,7 +282,6 @@
             "media_align_desktop": "",
             "media_border": "img-thumbnail",
             "img_orientation": "ratio-9x16",
-            "video": "",
             "video_ratio": "adapt",
             "video_autoplay": true,
             "video_loop": true,
@@ -525,7 +524,6 @@
           "settings": {
             "title": "First Testimonial",
             "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"<\/p>",
-            "img": "shopify:\/\/shop_images\/icon-user.svg",
             "author": "Author's Name",
             "author_subtitle": "Verified Customer"
           }
@@ -535,7 +533,6 @@
           "settings": {
             "title": "Second Testimonial",
             "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"<\/p>",
-            "img": "shopify:\/\/shop_images\/icon-user.svg",
             "author": "Author's Name",
             "author_subtitle": "Verified Customer"
           }
@@ -545,7 +542,6 @@
           "settings": {
             "title": "Third Testimonial",
             "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"<\/p>",
-            "img": "shopify:\/\/shop_images\/icon-user.svg",
             "author": "Author's Name",
             "author_subtitle": "Verified Customer"
           }
@@ -555,7 +551,6 @@
           "settings": {
             "title": "Fourth Testimonial",
             "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"<\/p>",
-            "img": "shopify:\/\/shop_images\/icon-user.svg",
             "author": "Author's Name",
             "author_subtitle": "Verified Customer"
           }
@@ -565,7 +560,6 @@
           "settings": {
             "title": "Fifth Testimonial",
             "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"<\/p>",
-            "img": "shopify:\/\/shop_images\/icon-user.svg",
             "author": "Author's Name",
             "author_subtitle": "Verified Customer"
           }
@@ -575,7 +569,6 @@
           "settings": {
             "title": "Sixth Testimonial",
             "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"<\/p>",
-            "img": "shopify:\/\/shop_images\/icon-user.svg",
             "author": "Author's Name",
             "author_subtitle": "Verified Customer"
           }
