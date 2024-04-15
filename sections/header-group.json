@@ -8,13 +8,13 @@
         "slide_j46kwk": {
           "type": "slide",
           "settings": {
-            "announcement": "<strong>Get a Price Break: Enjoy 30% OFF Everything!<\/strong>"
+            "announcement": "<em><strong>Get a Price Break: Enjoy 30% OFF Everything!<\/strong><\/em>"
           }
         },
         "slide_mwF4Tk": {
           "type": "slide",
           "settings": {
-            "announcement": "Free Shipping For All Orders Over $100"
+            "announcement": "<em><strong>Free Shipping For All Orders Over $100<\/strong><\/em>"
           }
         }
       },
