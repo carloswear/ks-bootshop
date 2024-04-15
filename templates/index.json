@@ -115,6 +115,7 @@
     },
     "richtext_4miPYL": {
       "type": "richtext",
+      "disabled": true,
       "settings": {
         "bg_color": "bg-primary",
         "bg_opacity": 5,
@@ -142,6 +143,7 @@
     },
     "richtext_AtYwxr": {
       "type": "richtext",
+      "disabled": true,
       "settings": {
         "bg_color": "bg-primary",
         "bg_opacity": 100,
@@ -182,6 +184,7 @@
           "type": "collection",
           "settings": {
             "collection": "dark-souls",
+            "img": "shopify:\/\/shop_images\/2560x1440-px-dark-souls-dark-souls-ii-dark-souls-iii-aircraft-space-hd-art-wallpaper-preview.jpg",
             "title": ""
           }
         },
@@ -189,6 +192,7 @@
           "type": "collection",
           "settings": {
             "collection": "zelda",
+            "img": "shopify:\/\/shop_images\/desktop-1.jpg",
             "title": ""
           }
         },
