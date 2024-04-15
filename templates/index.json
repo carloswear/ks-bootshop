@@ -40,6 +40,7 @@
         "slide_Q4UPQq",
         "slide_TddqxQ"
       ],
+      "disabled": true,
       "settings": {
         "bg_color": "bg-body",
         "bg_opacity": 100,
@@ -84,7 +85,11 @@
         "border_opacity": 100,
         "container_max_width": "",
         "products": [
-
+          "baldurs-gate-3-brooch-pin-3-d-metal-pin-all-classes-barbarian-bard-cleric-etc-baldurs-gate-pins-gift-for-baldurs-gate-3-astarion-372720014",
+          "dark-souls-ring-chloranthy-ring-1-1-replica-fully-detailed-cosplay-jewelry-dark-souls-1-2-3-gift-for-him-dark-souls-demon-souls-372720315",
+          "dark-souls-ring-darkmoon-ring-1-1-replica-fully-detailed-dark-souls-cosplay-jewelry-dark-souls-1-2-3-gift-for-him-dark-souls-372720321",
+          "final-fantasy-7-clouds-buster-sword-model-35-cm-13-8-gift-for-ff-7-lovers-with-free-stand-ff-7-keychain-cosplay-art-372719998",
+          "baldurs-gate-3-sword-with-stand-8-66-22-cm-bg-3-gift-baldurans-giantslayer-githyanki-longsword-phalar-aluve-everburn-blade-crimson-mischief-372719999"
         ],
         "collection": "latest",
         "limit": 8,
@@ -137,7 +142,6 @@
     },
     "richtext_AtYwxr": {
       "type": "richtext",
-      "disabled": true,
       "settings": {
         "bg_color": "bg-primary",
         "bg_opacity": 100,
