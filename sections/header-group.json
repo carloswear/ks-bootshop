@@ -35,7 +35,7 @@
         "font_size": "fs-xs",
         "font_size_desktop": "fs-desktop-sm",
         "text_transform": "",
-        "letter_spacing": 1,
+        "letter_spacing": 2,
         "carousel_autoplay": 5,
         "carousel_vertical": true,
         "pt": 4,
